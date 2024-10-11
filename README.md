@@ -45,7 +45,7 @@ Remember, the more you eat, the harder it gets! ⚡
 To run the game locally:
 
 *Open the Snake.html file in your browser.
-Enjoy the classic Snake Xenzia experience!* 🎉
+Enjoy the classic Snake Xenzia experience!* 🐍✨🎉
 
 🤝 Contributing :
 
@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ![screenshot](https://github.com/user-attachments/assets/1a347d95-faea-43e8-a69d-2d148b7a2044)
 
-Enjoy the classic gaming experience with Snake Xenzia! 🐍✨
+
