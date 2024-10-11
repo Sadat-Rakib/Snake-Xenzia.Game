@@ -13,7 +13,7 @@ Remember, the more you eat, the harder it gets! ⚡
 🌟 Features :
 
 - Classic Snake Gameplay: True to the original game design.
-- Responsive Controls: Use the keyboard arrow keys to control the snake.
+- Responsive Controls: Use the keyboard arrow keys to control the snake (black dot).
 - Score System: Keep track of your high score and challenge yourself to beat it!
 - Smooth Animations: Enhanced with modern CSS and JavaScript for seamless gameplay.
 - Simple and Clean Design: Minimalistic and user-friendly interface.
@@ -27,12 +27,12 @@ Remember, the more you eat, the harder it gets! ⚡
 🚀 How to Play :
 
 1. Start the game by clicking on the "Start" button or pressing the designated key.
-2. Use the arrow keys to move your snake around the game board:
+2. Use the arrow keys to move your snake (black dot) around the game board:
        - Up arrow: Move up
        - Down arrow: Move down
        - Left arrow: Move left
        - Right arrow: Move right
-3. Eat the food (small dot) to grow longer and increase your score.
+3. Eat the food (white dot) to grow longer and increase your score.
 4. Avoid hitting the walls or yourself to keep playing!
    
 🎯 Future Improvements :
