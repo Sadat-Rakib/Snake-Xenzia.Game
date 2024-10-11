@@ -55,5 +55,6 @@ Contributions are welcome! If you have suggestions or want to add new features, 
 
 This project is licensed under the MIT License - see the LICENSE file for details.</b>
 
-Enjoy the classic gaming experience with Snake Xenzia! 🐍✨
 ![screenshot](https://github.com/user-attachments/assets/1a347d95-faea-43e8-a69d-2d148b7a2044)
+
+Enjoy the classic gaming experience with Snake Xenzia! 🐍✨
